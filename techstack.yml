@@ -1,0 +1,327 @@
+repo_name: oeh77/student-management-using-django
+report_id: 2a5892b8d8c9731777e63b383d348c78
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T02:43:51+00:00'
+requested_by: jobic10
+provider: github
+branch: main
+detected_tools_count: 21
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/admin/js/core.js
+  detection_source: main_app/static/admin/js/core.js
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/daterangepicker/bower.json
+  detection_source: main_app/static/daterangepicker/bower.json
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-09-23 21:40:53.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.3.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/plugins/raphael/bower.json
+  detection_source: main_app/static/plugins/raphael/bower.json
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/plugins/raphael/webpack.config.js
+  detection_source: main_app/static/plugins/raphael/webpack.config.js
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-09 00:25:55.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/daterangepicker/bower.json
+  detection_source: main_app/static/daterangepicker/bower.json
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: Raphael
+  description: JavaScript library that draws Vector graphics for web sites
+  website_url: http://raphaeljs.com/
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3044/72f4ddedbb738d7d21702bb9b57d7754_400x400.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/plugins/raphael/bower.json
+  detection_source: main_app/static/plugins/raphael/bower.json
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: Django
+  description: A high-level Python Web framework that encourages rapid development
+    and clean
+  package_url: https://pypi.org/project/Django
+  version: 3.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19832/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-09-23 21:40:53.000000000 Z
+  vulnerabilities:
+  - name: SQL Injection in Django
+    cve_id: CVE-2021-35042
+    cve_url: https://github.com/advisories/GHSA-xpfp-f569-q3p2
+    detected_date: Sep 23
+    severity: critical
+    first_patched: 3.1.13
+  - name: Potential bypass of an upstream access control based on URL paths in Django
+    cve_id: CVE-2021-44420
+    cve_url: https://github.com/advisories/GHSA-v6rh-hp5x-86rv
+    detected_date: Dec 14
+    severity: high
+    first_patched: 3.1.14
+  - name: Path Traversal in Django
+    cve_id: CVE-2021-31542
+    cve_url: https://github.com/advisories/GHSA-rxjp-mfm9-w4wr
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.1.9
+  - name: Directory Traversal in Django
+    cve_id: CVE-2021-28658
+    cve_url: https://github.com/advisories/GHSA-xgxc-v2qg-chmh
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.1.8
+  - name: Header injection possible in Django
+    cve_id: CVE-2021-32052
+    cve_url: https://github.com/advisories/GHSA-qm57-vhq3-3fwf
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.1.10
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.24.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-09 23:18:56.000000000 Z
+  vulnerabilities:
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: dj-database-url
+  description: Use Database URLs in your Django Application
+  package_url: https://pypi.org/project/dj-database-url
+  version: 0.5.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20428/default_bd9b8499e6f547a7732694c637f33437a8c7ba95.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-08 23:50:37.000000000 Z
+- name: gunicorn
+  description: WSGI HTTP Server for UNIX
+  package_url: https://pypi.org/project/gunicorn
+  version: 20.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-08 23:50:37.000000000 Z
+- name: mysql-connector
+  description: MySQL driver written in Python
+  package_url: https://pypi.org/project/mysql-connector
+  version: 2.2.9
+  license: GPL-2.0-with-font-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20800/default_3585b2f9f07039da8bfcc35eab67d81325922568.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-09-23 21:40:53.000000000 Z
+- name: psycopg2
+  description: Psycopg2 - Python-PostgreSQL Database Adapter
+  package_url: https://pypi.org/project/psycopg2
+  version: 2.8.6
+  license: BSD-3-Clause-Attribution
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20416/default_64aa60b33468d1d28611966765867676f6303b64.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-08 23:50:37.000000000 Z
+- name: virtualenv
+  description: Virtual Python Environment builder
+  package_url: https://pypi.org/project/virtualenv
+  version: 20.0.31
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19970/default_1c8812e05cf754e8f654b8d86b3f025827f5bfb6.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-09-23 21:40:53.000000000 Z
+- name: whitenoise
+  description: Radically simplified static file serving for WSGI applications
+  package_url: https://pypi.org/project/whitenoise
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20302/default_e6bfb9eb79752f0f359e80676966e216a56792ab.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-08 23:50:37.000000000 Z
+- name: eve-raphael
+  description: Simple custom events
+  package_url: http://bower.io/eve-raphael
+  version: 0.5.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/plugins/raphael/bower.json
+  detection_source: main_app/static/plugins/raphael/bower.json
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: moment
+  description: Parse
+  package_url: http://bower.io/moment
+  version: 2.9.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/daterangepicker/bower.json
+  detection_source: main_app/static/daterangepicker/bower.json
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
+- name: requirejs
+  description: A file and module loader for JavaScript
+  package_url: http://bower.io/requirejs
+  version: 2.3.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/oeh77/student-management-using-django/blob/main/main_app/static/plugins/raphael/bower.json
+  detection_source: main_app/static/plugins/raphael/bower.json
+  last_updated_by: Owonubi Job Sunday
+  last_updated_on: 2020-10-03 22:22:13.000000000 Z
